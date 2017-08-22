@@ -1,0 +1,17 @@
+{
+  "name": "apollo",
+  "version": "0.0.1",
+  "description": "Displays system information in a terminal.",
+  "main": "Apollo.js",
+  "author": "Alcha",
+  "license": "MIT",
+  "scripts": {
+    "start": "node Apollo.js"
+  },
+  "dependencies": {
+    "async-polling": "^0.2.1",
+    "cli-color": "^1.2.0",
+    "clui": "^0.3.6",
+    "systeminformation": "^3.24.0"
+  }
+}
